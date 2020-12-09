@@ -4,4 +4,4 @@ Use the WASD keys to move the cannon, and then click to shoot. You have to shoot
 If you are in the clicker, you have to click on the virus, in order to earn more coins!
 Enjoy!
 [Play Now](https://bathills.github.io/Pandemic-Rim-A-Shooter/) to test it.
-Wanna see the code? Don't search it in all these files. Just go to the [index.html](https://raw.githubusercontent.com/BATHILLS/Pandemic-Rim-A-Shooter/main/index.html)
+Wanna see the code? Don't search it in all these files. Just go to the [index.html](https://raw.githubusercontent.com/BATHILLS/Pandemic-Rim-A-Shooter/main/index.html). The license for this repository is registered in the [MIT license](https://github.com/BATHILLS/Pandemic-Rim-A-Shooter/blob/main/LICENSE)
